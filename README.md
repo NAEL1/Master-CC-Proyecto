@@ -1,2 +1,2 @@
 # Master-CC-Proyecto
-Aun no se que proyecto voy a hacer
+Este repositorio  contendrá un proyecto final para la asignatura Cloud Computing  , Aun por definir
